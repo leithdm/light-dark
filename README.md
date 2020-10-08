@@ -5,7 +5,11 @@
 ## Overview
 
 - A single page website with a light-to-dark toggle switch. 
-- Objective: to illustrate how to implement light-to-dark functionality. 
+- **Objective**: to illustrate how to implement light-to-dark functionality. 
+
+## Technologies
+
+- makes use of `Window.localStorage` to save preference. 
 
 ## Credits
 
